@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+div#center {
+	text-align: center;
+}
+
+a.img {
+	border: thin solid #111;
+	padding: 1.5em;
+	padding-top: 6em;
+}
+
+a:link {color: black}
+a:visited {color: black}
+a:active {color: black}
